@@ -45,10 +45,20 @@ class _MyHomePageState extends State<MyHomePage> {
               padding: EdgeInsets.symmetric(vertical: 10.0),
               child: Text(
                 'Dmitry Bruso',
+                style: TextStyle(
+                    fontFamily: 'IndieFlower-Regular',
+                    fontSize: 25.0,
+                    letterSpacing: 2.5,
+                    fontWeight: FontWeight.bold),
               ),
             ),
             Text(
               'Flutter Developer',
+              style: TextStyle(
+                  fontFamily: 'ShadowsIntoLight-Regular',
+                  fontSize: 25.0,
+                  letterSpacing: 2.5,
+                  fontWeight: FontWeight.bold),
             ),
             Container(
               padding: EdgeInsets.symmetric(horizontal: 100.0, vertical: 20.0),
