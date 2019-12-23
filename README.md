@@ -9,6 +9,7 @@ Mi Card, Challenge -3
 ![Appbrewery: The Complete Flutter Development Bootcamp Using Dart](https://github.com/GDG-Uzhhorod/Appbrewery-Challenge-3-Flutter-MI-Card/blob/master/screen.jpg)
 
 
+[Select font on Fonts Google](https://fonts.google.com/) 
 
 sample by [GDG Uzhhorod](https://github.com/GDG-Uzhhorod) / [BruSD](https://github.com/BruSD)
 
