@@ -38,7 +38,7 @@ class _MyHomePageState extends State<MyHomePage> {
               padding: EdgeInsets.symmetric(vertical: 10.0),
               child: CircleAvatar(
                 radius: 50,
-                backgroundImage: AssetImage(''),
+                backgroundImage: AssetImage('assets/avatar.jpg'),
               ),
             ),
             Container(
